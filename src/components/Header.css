@@ -1,0 +1,10 @@
+.app-header{
+    color: blue;
+    min-height: 6rem;
+    background-color: black
+}
+
+.app-header h1{
+    font-size:  3rem;
+    line-height:  6rem;
+}
